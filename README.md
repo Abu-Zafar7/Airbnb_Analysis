@@ -102,12 +102,6 @@ The project can be configured using a JSON file with the following parameters:
 - plotly >= 5.3.0
 - numpy >= 1.20.0
 
-## Contributing
-Feel free to submit issues and enhancement requests!
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Dataset provided by [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - Built with Python data science libraries

@@ -105,3 +105,14 @@ The project can be configured using a JSON file with the following parameters:
 ## Acknowledgments
 - Dataset provided by [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - Built with Python data science libraries
+
+## Images and Screenshots 
+
+![availability_distribution](https://github.com/user-attachments/assets/2735659d-24d4-427d-841f-5855eaaaf623)
+![avg_price_by_roomtype](https://github.com/user-attachments/assets/f63a61d5-d9a4-40b4-a7d4-b4279ed9bf1a)
+![correlation_matrix](https://github.com/user-attachments/assets/f352adba-fc1f-4521-9cd6-186221c53b64)
+![price_distribution](https://github.com/user-attachments/assets/563b85fb-7d53-487a-a138-7998b5483b0b)
+![Screenshot (129)](https://github.com/user-attachments/assets/33b45c6f-d377-4038-85e0-2c001160736e)
+![Screenshot (131)](https://github.com/user-attachments/assets/c5a737e6-9558-45f0-87cc-266e4736f05d)
+![Screenshot (132)](https://github.com/user-attachments/assets/a302f895-8753-4f40-aa62-701c7e2da6ca)
+![Screenshot (132)](https://github.com/user-attachments/assets/038f5d71-0101-4642-8682-598cc0ad6781)
